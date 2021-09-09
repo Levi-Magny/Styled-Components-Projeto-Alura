@@ -7,4 +7,7 @@ export const GlobalStyle = createGlobalStyle`
   padding: 0;
   text-decoration: none;
   color: grey;}
+  li {
+    list-style: none;
+  }
 `;
